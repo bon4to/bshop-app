@@ -2,8 +2,8 @@ import "./App.css";
 
 function App() {
   return (
-    <>
-      <h1>bshop-app</h1>
+    <> 
+      <h1 className="text-xs">bshop-app</h1>
     </>
   );
 }
